@@ -1,0 +1,4 @@
+Hello, hello! Привет, мир.
+Hello мир; привет? HASH hash.
+Numbers: 123 123.
+helloпривет

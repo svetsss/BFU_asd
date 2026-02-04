@@ -1,0 +1,7 @@
+index:key=count
+2:helloпривет=1
+5:hello=3
+6:привет=2
+7:мир=2
+10:hash=2
+11:numbers=1
